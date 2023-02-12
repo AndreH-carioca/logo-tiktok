@@ -1,4 +1,4 @@
-<h1 align="center"> Logo do Tik Tok </h1>
+<h1 align="center"> Logo do Tik-Tok </h1>
 
 <p align="center"> Desenvolvi a logomarca atual da rede social TikTok</p>
 
