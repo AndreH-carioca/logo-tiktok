@@ -1,6 +1,6 @@
-<h1 align="center"> Logo do Tik-Tok </h1>
+<h1 align="center"> Logomarca Online do TikTok </h1>
 
-<p align="center"> Desenvolvi a logomarca atual da rede social TikTok</p>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -13,3 +13,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - [Visite o projeto online](https://andreh-carioca.github.io/logo-tiktok/)
+
+## Licença
+
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
